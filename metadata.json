@@ -1,0 +1,6 @@
+{
+  "name": "MESA INTERIOR",
+  "description": "Thương hiệu thiết kế và thi công nội thất cao cấp. Kiến tạo không gian sống Modern Luxury và Japandi tinh tế, đẳng cấp và bền vững.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
