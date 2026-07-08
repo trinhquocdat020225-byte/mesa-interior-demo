@@ -5,10 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-     base: "/mesa-interior-demo/",
-
     plugins: [react(), tailwindcss()],
-
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
